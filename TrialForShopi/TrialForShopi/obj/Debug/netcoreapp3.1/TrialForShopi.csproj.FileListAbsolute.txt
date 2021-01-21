@@ -1,0 +1,15 @@
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\bin\Debug\netcoreapp3.1\TrialForShopi.exe
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\bin\Debug\netcoreapp3.1\TrialForShopi.deps.json
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\bin\Debug\netcoreapp3.1\TrialForShopi.runtimeconfig.json
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\bin\Debug\netcoreapp3.1\TrialForShopi.runtimeconfig.dev.json
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\bin\Debug\netcoreapp3.1\TrialForShopi.dll
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\bin\Debug\netcoreapp3.1\TrialForShopi.pdb
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.csprojAssemblyReference.cache
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.AssemblyInfoInputs.cache
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.AssemblyInfo.cs
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.csproj.CoreCompileInputs.cache
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.dll
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.pdb
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.genruntimeconfig.cache
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AdilNumanCelik.000\source\repos\TrialForShopi\TrialForShopi\obj\Debug\netcoreapp3.1\TrialForShopi.csproj.CopyComplete
