@@ -51,7 +51,7 @@ STREAM_API_KEY :  Api key for getstream activity stream api. <br/>
 STREAM_API_SECRET : Secret key for getstream activity stream api <br/>
 <br/>
 
-Then run the server using: 
+- Then run the server using: 
 ```bash
 python manage.py runserver
 ```
