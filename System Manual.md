@@ -8,7 +8,12 @@
 docker-compose up -d --build
 ```
 
-- This will run backend on localhost port 8000 and frontedn on localhost port 5000
+- This will build backend and frontend. <br/>
+- Then execute following command to run backendon localhost port 8000 and frontend on localhost port 5000: <br/>
+
+```bash
+docker-compose up
+```
 
 ## Without Docker
 ### How to build and run on local
