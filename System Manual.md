@@ -52,7 +52,6 @@ AWS_ACCESS_KEY_ID : Access key id to Amazon AWS S3 bucket that stores files uplo
 AWS_SECRET_ACCESS_KEY : Secret key of Amazon AWS S3 bucket that stores files uploaded by users. <br/>
 STREAM_API_KEY :  Api key for getstream activity stream api. <br/>
 STREAM_API_SECRET : Secret key for getstream activity stream api <br/>
-<br/>
 
 - Then run the server using: 
 ```bash
