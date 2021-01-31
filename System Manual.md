@@ -1,7 +1,7 @@
 # Backend System Manual
 ## With Docker
-- Unzip ..... file. <br/>
-- Open terminal and execute <br/>
+- Unzip [this](https://github.com/bounswe/bounswe2020group3/blob/master/deliverables/paperlayer.zip). <br/>
+- Open terminal change folder to paperlayer and execute: <br/>
 
 ```bash
 docker-compose up -d --build
