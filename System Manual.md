@@ -26,7 +26,7 @@ poetry install
 ```bash
 poetry shell
 ```
-- Install PostgreSql in your computer and set up our database instance using (link). <br/>
+- Install PostgreSql in your computer and set up our database instance using [this file](https://github.com/bounswe/bounswe2020group3/blob/master/backend/db-dumps/paperlayerdb.sql) . <br/>
 
 - Execute following commands to migrate databse: <br/>
 ```bash
