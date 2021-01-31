@@ -1,4 +1,15 @@
-## Backend
+# Backend System Manual
+## With Docker
+- Unzip ..... file. <br/>
+- Open terminal and execute <br/>
+
+```bash
+docker-compose up -d --build
+```
+
+- This will run backend on localhost port 8000 and frontedn on localhost port 5000
+
+## Without Docker
 ### How to build and run on local
 Clone repository <br/>
 Open terminal and change folder to ..\bounswe2020group3\backend <br/>
