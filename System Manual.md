@@ -1,6 +1,5 @@
 # Backend System Manual
 ## With Docker
-- First comp
 - Unzip ..... file. <br/>
 - Open terminal and execute <br/>
 
@@ -9,12 +8,11 @@ docker-compose up -d --build
 ```
 
 - This will build backend and frontend. <br/>
-- Then execute following command to run backendon localhost port 8000 and frontend on localhost port 5000: <br/>
+- Then execute following command to run backend on localhost port 8000 and frontend on localhost port 5000: <br/>
 
 ```bash
 docker-compose up
 ```
-
 ## Without Docker
 ### How to build and run on local
 - Clone repository <br/>
