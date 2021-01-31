@@ -50,8 +50,9 @@ Paperlayer needs  some information stored in environment variables for some opre
 EMAIL_HOST_PASSWORD : Password of e-mail account that Paperlayer uses. <br/>
 AWS_ACCESS_KEY_ID : Access key id to Amazon AWS S3 bucket that stores files uploaded by users. <br/>
 AWS_SECRET_ACCESS_KEY : Secret key of Amazon AWS S3 bucket that stores files uploaded by users. <br/>
-STREAM_API_KEY :  Api key for getstream activity stream api. <br/>
-STREAM_API_SECRET : Secret key for getstream activity stream api <br/>
+STREAM_API_KEY :  Api key for getstream activity stream [api](www.getstream.io). <br/>
+STREAM_API_SECRET : Secret key for getstream activity stream [api](www.getstream.io). <br/>
+SENDGRID_API_KEY : An api key used for e-mail verification [api](www.sendgrid.com). <br/>
 <br/>
 
 - Then run the server using: <br/>
